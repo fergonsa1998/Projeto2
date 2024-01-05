@@ -1,0 +1,7 @@
+C:\Users\FRG\Desktop\Projeto\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\FRG\Desktop\Projeto\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\FRG\Desktop\Projeto\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\FRG\Desktop\Projeto\ConsoleApp1\ConsoleApp1\obj\Debug\Heranca3.csproj.AssemblyReference.cache
+C:\Users\FRG\Desktop\Projeto\ConsoleApp1\ConsoleApp1\obj\Debug\Heranca3.csproj.CoreCompileInputs.cache
+C:\Users\FRG\Desktop\Projeto\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\FRG\Desktop\Projeto\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

@@ -1,0 +1,7 @@
+C:\Users\FRG\Desktop\Projeto\ConsoleApp1\ClassesAbstratas\bin\Debug\ClassesAbstratas.exe.config
+C:\Users\FRG\Desktop\Projeto\ConsoleApp1\ClassesAbstratas\bin\Debug\ClassesAbstratas.exe
+C:\Users\FRG\Desktop\Projeto\ConsoleApp1\ClassesAbstratas\bin\Debug\ClassesAbstratas.pdb
+C:\Users\FRG\Desktop\Projeto\ConsoleApp1\ClassesAbstratas\obj\Debug\ClassesAbstratas.csproj.AssemblyReference.cache
+C:\Users\FRG\Desktop\Projeto\ConsoleApp1\ClassesAbstratas\obj\Debug\ClassesAbstratas.csproj.CoreCompileInputs.cache
+C:\Users\FRG\Desktop\Projeto\ConsoleApp1\ClassesAbstratas\obj\Debug\ClassesAbstratas.exe
+C:\Users\FRG\Desktop\Projeto\ConsoleApp1\ClassesAbstratas\obj\Debug\ClassesAbstratas.pdb

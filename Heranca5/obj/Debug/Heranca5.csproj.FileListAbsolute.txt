@@ -1,0 +1,7 @@
+C:\Users\FRG\Desktop\Projeto\ConsoleApp1\Heranca5\obj\Debug\Heranca5.csproj.AssemblyReference.cache
+C:\Users\FRG\Desktop\Projeto\ConsoleApp1\Heranca5\obj\Debug\Heranca5.csproj.CoreCompileInputs.cache
+C:\Users\FRG\Desktop\Projeto\ConsoleApp1\Heranca5\bin\Debug\Heranca5.exe.config
+C:\Users\FRG\Desktop\Projeto\ConsoleApp1\Heranca5\bin\Debug\Heranca5.exe
+C:\Users\FRG\Desktop\Projeto\ConsoleApp1\Heranca5\bin\Debug\Heranca5.pdb
+C:\Users\FRG\Desktop\Projeto\ConsoleApp1\Heranca5\obj\Debug\Heranca5.exe
+C:\Users\FRG\Desktop\Projeto\ConsoleApp1\Heranca5\obj\Debug\Heranca5.pdb

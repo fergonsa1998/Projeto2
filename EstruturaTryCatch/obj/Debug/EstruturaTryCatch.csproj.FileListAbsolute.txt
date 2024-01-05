@@ -1,0 +1,7 @@
+C:\Users\FRG\Desktop\Projeto\ConsoleApp1\EstruturaTryCatch\bin\Debug\EstruturaTryCatch.exe.config
+C:\Users\FRG\Desktop\Projeto\ConsoleApp1\EstruturaTryCatch\bin\Debug\EstruturaTryCatch.exe
+C:\Users\FRG\Desktop\Projeto\ConsoleApp1\EstruturaTryCatch\bin\Debug\EstruturaTryCatch.pdb
+C:\Users\FRG\Desktop\Projeto\ConsoleApp1\EstruturaTryCatch\obj\Debug\EstruturaTryCatch.csproj.AssemblyReference.cache
+C:\Users\FRG\Desktop\Projeto\ConsoleApp1\EstruturaTryCatch\obj\Debug\EstruturaTryCatch.csproj.CoreCompileInputs.cache
+C:\Users\FRG\Desktop\Projeto\ConsoleApp1\EstruturaTryCatch\obj\Debug\EstruturaTryCatch.exe
+C:\Users\FRG\Desktop\Projeto\ConsoleApp1\EstruturaTryCatch\obj\Debug\EstruturaTryCatch.pdb

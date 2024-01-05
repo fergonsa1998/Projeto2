@@ -1,0 +1,7 @@
+C:\Users\FRG\Desktop\Projeto\ConsoleApp1\MetodosAbstratos\bin\Debug\MetodosAbstratos.exe.config
+C:\Users\FRG\Desktop\Projeto\ConsoleApp1\MetodosAbstratos\bin\Debug\MetodosAbstratos.exe
+C:\Users\FRG\Desktop\Projeto\ConsoleApp1\MetodosAbstratos\bin\Debug\MetodosAbstratos.pdb
+C:\Users\FRG\Desktop\Projeto\ConsoleApp1\MetodosAbstratos\obj\Debug\MetodosAbstratos.csproj.AssemblyReference.cache
+C:\Users\FRG\Desktop\Projeto\ConsoleApp1\MetodosAbstratos\obj\Debug\MetodosAbstratos.csproj.CoreCompileInputs.cache
+C:\Users\FRG\Desktop\Projeto\ConsoleApp1\MetodosAbstratos\obj\Debug\MetodosAbstratos.exe
+C:\Users\FRG\Desktop\Projeto\ConsoleApp1\MetodosAbstratos\obj\Debug\MetodosAbstratos.pdb

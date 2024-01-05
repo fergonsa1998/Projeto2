@@ -1,0 +1,7 @@
+C:\Users\FRG\Desktop\Projeto\ConsoleApp1\CriandoExcecoes\bin\Debug\CriandoExcecoes.exe.config
+C:\Users\FRG\Desktop\Projeto\ConsoleApp1\CriandoExcecoes\bin\Debug\CriandoExcecoes.exe
+C:\Users\FRG\Desktop\Projeto\ConsoleApp1\CriandoExcecoes\bin\Debug\CriandoExcecoes.pdb
+C:\Users\FRG\Desktop\Projeto\ConsoleApp1\CriandoExcecoes\obj\Debug\CriandoExcecoes.csproj.AssemblyReference.cache
+C:\Users\FRG\Desktop\Projeto\ConsoleApp1\CriandoExcecoes\obj\Debug\CriandoExcecoes.csproj.CoreCompileInputs.cache
+C:\Users\FRG\Desktop\Projeto\ConsoleApp1\CriandoExcecoes\obj\Debug\CriandoExcecoes.exe
+C:\Users\FRG\Desktop\Projeto\ConsoleApp1\CriandoExcecoes\obj\Debug\CriandoExcecoes.pdb
